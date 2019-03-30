@@ -1,12 +1,12 @@
 ---
-title: "My homepage"
+title: "Marley Bean Sanderson"
 ---
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+I am a tiny useless chihuahua that makes gremlin sounds. I was bred to be a living hot water bottle. In addition to that, I am also a high fiving pro as well as an expert cuddler, **BUT DON'T TOUCH MY HAUNCHES OR UNDERCARRAGE**. And whatever you do, *don't you dare blow on me*.  
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+I am an unknown age and was adpoted from [Piece of Mind Dog Rescue](https://www.peaceofminddogrescue.org/index.php).
+
 
 ```{r cars}
 summary(cars)

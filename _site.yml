@@ -1,8 +1,10 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Marley Bean Sanderson"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Sounds"
+      href: sounds.html
