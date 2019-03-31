@@ -1,0 +1,7 @@
+---
+title: "Sounds"
+---
+
+## A collection of the horrible noises I make
+
+ <font size="5"> [*Attac*](Sounds/Attac.m4a) </font>

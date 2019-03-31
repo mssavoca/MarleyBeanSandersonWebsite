@@ -4,7 +4,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Pictures"
       href: about.html
     - text: "Sounds"
       href: sounds.html
+    - text: "Videos"
+      href: videos.html

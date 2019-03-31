@@ -2,22 +2,9 @@
 title: "Marley Bean Sanderson"
 ---
 
-
 I am a tiny useless chihuahua that makes gremlin sounds. I was bred to be a living hot water bottle. In addition to that, I am also a high fiving pro as well as an expert cuddler, **BUT DON'T TOUCH MY HAUNCHES OR UNDERCARRAGE**. And whatever you do, *don't you dare blow on me*.  
+
+
 
 I am an unknown age and was adpoted from [Piece of Mind Dog Rescue](https://www.peaceofminddogrescue.org/index.php).
 
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

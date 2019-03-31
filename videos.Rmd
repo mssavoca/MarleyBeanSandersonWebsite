@@ -1,0 +1,27 @@
+---
+title: "Videos"
+---
+
+#
+#Our little gremlin
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wztMYNRGY_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#
+#
+#
+#
+#Loving dad
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rywhZFPdg7c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#
+#
+#
+#
+#Curling a bean
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7SfKvcmEUIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+```{r, eval=FALSE}
+
+```
+
+
+
+
